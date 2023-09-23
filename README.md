@@ -7,16 +7,7 @@ This repository contains a Flight Price Prediction application built using Pytho
 - [Project Description](#project-description)
 - [Features](#features)
 - [Demo](#demo)
-- [Getting Started](#getting-started)
-- [Usage Examples](#usage-examples)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Roadmap](#roadmap)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Contact Information](#contact-information)
+- [Libraries Used](#libraries-used)
 
 ## Project Description
 
