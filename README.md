@@ -1,7 +1,5 @@
 # Flight-Price-Prediction
 
-# Flight Price Prediction
-
 This repository contains a Flight Price Prediction application built using Python and machine learning techniques. The application predicts the price of flights based on historical data and various features like route, airline, departure time, and more.
 
 ## Table of Contents
