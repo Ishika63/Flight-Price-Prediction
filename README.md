@@ -8,6 +8,7 @@ This repository contains a Flight Price Prediction application built using Pytho
 - [Features](#features)
 - [Demo](#demo)
 - [Libraries Used](#libraries-used)
+- [Column Descriptions](#column-descriptions)
 
 ## Project Description
 
@@ -42,3 +43,31 @@ The Flight Price Prediction application is built using the following libraries a
 - [Seaborn](https://seaborn.pydata.org/): A data visualization library based on Matplotlib.
 - [ExtraTreesRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html): A regression model from scikit-learn's ensemble module.
 - [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html): A regression model from scikit-learn's ensemble module for the machine learning model.
+
+
+
+## Column Descriptions
+
+The dataset used in this project contains the following columns:
+
+1. **Airline**: The name of the airline carrier.
+
+2. **Date_of_Journey**: The date of the flight journey.
+
+3. **Source**: The departure city or airport.
+
+4. **Destination**: The arrival city or airport.
+
+5. **Route**: The flight route, including connecting airports if any.
+
+6. **Dep_Time**: The departure time.
+
+7. **Arrival_Time**: The arrival time at the destination.
+
+8. **Duration**: The duration of the flight.
+
+9. **Total_Stops**: The number of stops during the flight.
+
+10. **Additional_Info**: Additional flight information, if any.
+
+11. **Price**: The price of the flight ticket (the target variable for prediction).
