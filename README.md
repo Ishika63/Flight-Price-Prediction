@@ -4,11 +4,28 @@ This repository contains a Flight Price Prediction application built using Pytho
 
 ## Table of Contents
 
+- [Project Structure](#project-structure)
 - [Project Description](#project-description)
 - [Features](#features)
 - [Demo](#demo)
 - [Libraries Used](#libraries-used)
 - [Column Descriptions](#column-descriptions)
+
+  
+
+## Project Structure
+
+The repository is organized as follows:
+
+- `templates/`: Contains HTML templates for the web application.
+  - `home.html`: The main template for the flight price prediction web page.
+- `Data_Train.xlsx`: The training dataset used to train the machine learning model.
+- `Test_set.xlsx`: The test dataset used to evaluate the model's performance.
+- `app.py`: The Python script that runs the web application.
+- `flight_price.ipynb`: Jupyter Notebook containing the data preprocessing, model training, and evaluation code.
+- `styles.css`: CSS file for styling the web application.
+- `flight_rf.pkl`: A pre-trained machine learning model saved as a pickle file.
+
 
 ## Project Description
 
