@@ -24,7 +24,7 @@ The Flight Price Prediction application is designed to help users estimate the c
 
 ## Demo
 
-You can try out the live demo of the Flight Price Prediction application [here](#).
+Flight Price Prediction App Screenshot:
 
 ![Flight_price](https://github.com/Ishika63/Flight-Price-Prediction/assets/80192358/e5e4ad77-b5cf-43e6-8d63-501d6812bda0)
 
