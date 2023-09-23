@@ -37,11 +37,17 @@ You can try out the live demo of the Flight Price Prediction application [here](
 ![Flight_price](https://github.com/Ishika63/Flight-Price-Prediction/assets/80192358/e5e4ad77-b5cf-43e6-8d63-501d6812bda0)
 
 
-## Getting Started
+## Libraries Used
 
-To get started with the Flight Price Prediction application, follow these steps:
+The Flight Price Prediction application is built using the following libraries and tools:
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/Flight-Price-Prediction.git
+- [Flask](https://flask.palletsprojects.com/): A web framework for creating the web interface.
+- [Flask-CORS](https://flask-cors.readthedocs.io/): A Flask extension for handling Cross-Origin Resource Sharing (CORS) to allow requests from different domains.
+- [scikit-learn](https://scikit-learn.org/): A machine learning library used for model creation and prediction.
+- [Pickle](https://docs.python.org/3/library/pickle.html): Python's built-in module for serializing and deserializing objects.
+- [Pandas](https://pandas.pydata.org/): A data manipulation and analysis library.
+- [NumPy](https://numpy.org/): A library for numerical computing in Python.
+- [Matplotlib](https://matplotlib.org/): A library for creating visualizations and plots.
+- [Seaborn](https://seaborn.pydata.org/): A data visualization library based on Matplotlib.
+- [ExtraTreesRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html): A regression model from scikit-learn's ensemble module.
+- [RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html): A regression model from scikit-learn's ensemble module for the machine learning model.
